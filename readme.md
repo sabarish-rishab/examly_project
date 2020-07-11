@@ -58,3 +58,11 @@
   7) suhail       suhail123
   8) rajesh       rajesh123
   9) ashwin       ashwin123
+  
+  localhost
+  database name:project
+  table:table
+  1) sabarish     sabarish123
+  2) sidharth     sidharth123
+
+  
