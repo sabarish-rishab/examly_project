@@ -1,1 +1,1 @@
-# examly_project
+# student profile
